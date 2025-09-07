@@ -20,6 +20,10 @@ build/
 .idea/
 *.swp
 *.swo
+.cursor/
+.claude/
+CLAUDE.md
+docs/
 
 # OS generated files
 .DS_Store
@@ -29,8 +33,6 @@ build/
 .Trashes
 ehthumbs.db
 Thumbs.db
-.cursor/
-docs/
 
 # Logs
 logs
